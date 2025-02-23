@@ -1,1 +1,1 @@
-table "ttttttt"
+creat table "ttttttt"
